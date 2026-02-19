@@ -1,0 +1,1 @@
+Este projeto está se iniciando em 19 de fevereiro de 2026, e o objetivo é criar um site que esteja mais alinhado com o projeto da DJ SOSSEGO, utilizando animações em CSS para trazer movimento ao site.
